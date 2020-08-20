@@ -11,12 +11,19 @@ nav {
 nav li {
     display: inline-block;
     padding: 1em;
+    background-color: darksalmon;
+    width: 75px;
+    text-align: center;
 }
 
 nav li a {
-    
+    text-decoration: none;
+    width: 100%;
 }
 
+nav li :hover {
+    background-color: darkturquoise;
+}
 .wrapper {
     background-color: coral;
     margin: 0px 25px;
@@ -24,4 +31,8 @@ nav li a {
 
 .wrapper h1, h3 {
     text-align: center;
+}
+
+article p {
+    background-color: honeydew;
 }
