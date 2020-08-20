@@ -1,11 +1,25 @@
 body {
     background-color: cadetblue;
+    margin: 0px;
+}
+
+nav {
+    background-color: darkkhaki;
+    margin: 0px;
+}
+
+nav li {
+    display: inline-block;
+    padding: 1em;
+}
+
+nav li a {
+    
 }
 
 .wrapper {
     background-color: coral;
-    width: 100%;
-    margin: 0px auto;
+    margin: 0px 25px;
 }
 
 .wrapper h1, h3 {
