@@ -24,6 +24,7 @@ nav li a {
 nav li :hover {
     background-color: darkturquoise;
 }
+
 .wrapper {
     background-color: coral;
     margin: 0px 25px;
