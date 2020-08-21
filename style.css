@@ -14,11 +14,13 @@ header {
   width: 100%;
   min-height: 300px;
   background-color: darkcyan;
+  text-align: center;
 }
 
 .menu {
   background-color: darkkhaki;
   height: 40px;
+  text-align: left;
 }
 
 .menu li {
