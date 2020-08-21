@@ -1,0 +1,18 @@
+body {
+  background-color: crimson;
+  margin: 0%;
+}
+
+.wrapper {
+  max-width: 85%;
+}
+
+header {
+  width: 100%;
+  min-height: 600px;
+  background-color: darkcyan;
+}
+
+nav {
+  background-color: darkkhaki;
+}
