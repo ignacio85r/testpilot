@@ -1,6 +1,16 @@
 body {
-    background-color: cadetblue;
     margin: 0px;
+}
+header{
+ background-color: white;
+ width: 70%;
+ margin: 0px auto;
+
+ background: #F8F8F8; 
+ border: solid #BDBDBD 0; 
+ box-shadow: 0 14px 16px rgba(0, 0, 0, 0.1)  ; 
+ -webkit-box-shadow: 0 14px 16px rgba(0, 0, 0, 0.1)  ; 
+ -moz-box-shadow: 0 14px 16px rgba(0, 0, 0, 0.1)  ; 
 }
 
 nav {
@@ -26,7 +36,6 @@ nav li :hover {
 }
 
 .wrapper {
-    background-color: coral;
     margin: 0px 25px;
 }
 
@@ -34,6 +43,7 @@ nav li :hover {
     text-align: center;
 }
 
-article p {
+article {
+    padding-top: 1em;
     background-color: honeydew;
 }
