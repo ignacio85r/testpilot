@@ -1,16 +1,29 @@
 body {
     margin: 0px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
 }
 header{
  background-color: white;
  width: 70%;
- margin: 0px auto;
-
+ margin: 80px auto;
  background: #F8F8F8; 
  border: solid #BDBDBD 0; 
  box-shadow: 0 14px 16px rgba(0, 0, 0, 0.1)  ; 
  -webkit-box-shadow: 0 14px 16px rgba(0, 0, 0, 0.1)  ; 
  -moz-box-shadow: 0 14px 16px rgba(0, 0, 0, 0.1)  ; 
+}
+
+
+.heroImg{
+  width: 400px;
+  margin: 0 500px;
+  padding: 20px 20px;
+}
+
+.textoHeader{
+  background-color: deepskyblue ;
+  text-align: center;
 }
 
 nav {
