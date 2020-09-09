@@ -3,10 +3,21 @@ body {
     display: block;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.wrapper{
+  max-width: 90%;
+  margin: 0px auto;
+}
+
+
 header{
  background-color: white;
  width: 70%;
+<<<<<<< HEAD
  margin: 80px auto;
+=======
+ margin: 0px auto;
+>>>>>>> c30d899a4fa735e780ff0878f456fe579b28f657
  background: #F8F8F8; 
  border: solid #BDBDBD 0; 
  box-shadow: 0 14px 16px rgba(0, 0, 0, 0.1)  ; 
@@ -45,5 +56,16 @@ nav li a {
 
 nav li a:hover {
     background-color: darkturquoise;
+}
+
+footer {
+  background-color:darkolivegreen;
+  height: 200px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+footer p{
+  padding: 90px 0;
 }
 
